@@ -19,6 +19,21 @@ html {
   overflow: hidden;
 }
 
+.container:hover .img {
+  -webkit-transform: scale(1.15);
+          transform: scale(1.15);
+  opacity: 0.7;
+  -webkit-transition: 0.9s;
+  transition: 0.9s;
+}
+
+.container:hover .text {
+  -webkit-transform: translateY(-100px);
+          transform: translateY(-100px);
+  -webkit-transition: 0.9s;
+  transition: 0.9s;
+}
+
 p {
   font-size: 12px;
   color: black;
@@ -64,20 +79,5 @@ h2 {
   top: -35px;
   right: 25px;
   padding: 5px 5px 5px 5px;
-}
-
-img:hover {
-  -webkit-transform: scale(1.2);
-          transform: scale(1.2);
-  opacity: calc(0.7);
-  -webkit-transition: 0.9s;
-  transition: 0.9s;
-}
-
-.text:hover {
-  -webkit-transform: translateY(-100px);
-          transform: translateY(-100px);
-  -webkit-transition: 0.9s;
-  transition: 0.9s;
 }
 /*# sourceMappingURL=style.css.map */
