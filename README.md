@@ -1,12 +1,14 @@
-# Animation en SASS/SCSS
+<h1 align="center"> Animation in SASS/SCSS </h1>
 
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+</p>
+  
+In this solo project, the objective is to make a small vignette by applying animations to it using SASS. 
 
-Durant ce projet solo, l'objectif est de réaliser une petite vignette en y appliquant des animations au moyen de SASS. 
-
-Pour ce projet, la syntaxe SCSS a été utilisée
+For this project, the SCSS syntax was used
 
 ![Vignette initiale](assets/img/img0.png) ![Vignette animée](assets/img/img1.png)
 
 
-[Vignette animée](https://calcagnoloic.github.io/challenge-animation/)
+[Animation](https://calcagnoloic.github.io/challenge-animation/)
